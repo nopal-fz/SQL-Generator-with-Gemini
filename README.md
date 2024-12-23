@@ -76,7 +76,7 @@ Initially, I considered other AI models like **Ollama**, but due to its high res
 Your feedback is invaluable! If you have suggestions or want to contribute:
 1. Fork the repo and submit a pull request.  
 2. Open an issue for bug reports or feature requests.  
-3. Share your thoughts directly with me on [LinkedIn](https://linkedin.com/your-profile) (replace with your actual link).
+3. Share your thoughts directly with me on [LinkedIn](www.linkedin.com/in/naufal-faiz-nugraha-867534292)
 
 ---
 
